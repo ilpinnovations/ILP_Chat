@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\ilpchat-master2\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\ilpchat-master2\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-46a11b4a6fa95f019e03725526467e8d3c05f706.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\ilpchat-master2\app\libs\cwac-merge-1.0.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed0fa181c7feec4bc4d2af2ff212eee459201947">
+        <dex dex="C:\ilpchat-master2\app\build\intermediates\pre-dexed\debug\cwac-merge-1.0.4-4e0e236b55bc57d52ac832712d6238e5f5c42bc8.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\ilpchat-master2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\ilpchat-master2\app\build\intermediates\pre-dexed\debug\classes-58ef86308121aef7a84c669892e92d819d1e2ca2.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\ilpchat-master2\app\libs\Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="C:\ilpchat-master2\app\build\intermediates\pre-dexed\debug\Parse-1.9.4-ffe380e16c9e5e747b13197078436b4bbb99751c.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\ilpchat-master2\app\libs\Parse-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="56c22930b5d4f77015b6a40c7f14103d3e101001">
+        <dex dex="C:\ilpchat-master2\app\build\intermediates\pre-dexed\debug\Parse-1.9.4-ffe380e16c9e5e747b13197078436b4bbb99751c.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\ilpchat-master2\app\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\ilpchat-master2\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-539230fe9216073dc3250f8517fd0898fa982570.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\ilpchat-master2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\ilpchat-master2\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-e167316c831b38839448e35a57504e5b57ef19ff.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\ilpchat-master2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\ilpchat-master2\app\build\intermediates\pre-dexed\debug\classes-c585e1d8dc99869c3830fd07132f2b89dd4bdbe6.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\ilpchat-master2\app\libs\cwac-merge-1.0.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ed0fa181c7feec4bc4d2af2ff212eee459201947">
+        <dex dex="C:\ilpchat-master2\app\build\intermediates\pre-dexed\debug\cwac-merge-1.0.4-4e0e236b55bc57d52ac832712d6238e5f5c42bc8.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\ilpchat-master2\app\libs\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\ilpchat-master2\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-46a11b4a6fa95f019e03725526467e8d3c05f706.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\Stream Softwares\adt-bundle-windows-x86-20131030(Updated)\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\ilpchat-master2\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-8c58067e049c8a52e767f856e6b6fd9de09b3170.jar\classes.dex" />
+    </item>
+    <item
+        jar="C:\ilpchat-master2\app\libs\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\ilpchat-master2\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-539230fe9216073dc3250f8517fd0898fa982570.jar\classes.dex" />
+    </item>
+
+</items>

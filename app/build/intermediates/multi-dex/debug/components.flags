@@ -1,0 +1,134 @@
+-injars 'C:\Users\FAYUSULLA\Downloads\ilpchat-master2\app\build\intermediates\multi-dex\debug\allclasses.jar'
+-outjars 'C:\Users\FAYUSULLA\Downloads\ilpchat-master2\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\adt-bundle-windows-x86_64-20140702\sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontpreverify
+-dontwarn
+-printconfiguration 'C:\Users\FAYUSULLA\Downloads\ilpchat-master2\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.tcs.tvmilp.Ilpapplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.tcs.tvmilp.Launcher {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.Login {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.Ilpapplication {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.ParseRegister {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.RegisterActivity {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.SuperLogin {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.UserList {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.helper.DatabaseHandler {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.activity.ChatPage {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.UserDetails {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.PushReceiver {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.SelectGroup {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.activity.CreateGroup {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.DialogCreateGroup {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.DeleteDialog {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.activity.ConfirmMakeAdmin {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.activity.ConfirmSelectGroup {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.activity.ConfirmRemoveGroup {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.activity.AttachActivity {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.SuperAGrant {
+    <init>();
+}
+
+-keep class paul.arian.fileselector.FileSelectionActivity {
+    <init>();
+}
+
+-keep class paul.arian.fileselector.FolderSelectionActivity {
+    <init>();
+}
+
+-keep class com.parse.PushService {
+    <init>();
+}
+
+-keep class com.parse.ParseBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.PushReceiver {
+    <init>();
+}
+
+-keep class com.parse.GcmBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.tcs.tvmilp.MainActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
